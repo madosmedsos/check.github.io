@@ -1,2 +1,2 @@
 # check.github.io
-Verify the seller
+مكافحة النصب الإلكتروني
